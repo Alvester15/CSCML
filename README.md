@@ -1,8 +1,10 @@
 FOR IT TO RUN DO:
 
+Make sure python is installed im using python3 3.10.7
+
 1.PIP INSTALL DJANGO
 
-2.CD INTO reactapp
+2.CD INTO frontend
 
 3.npm install
 
